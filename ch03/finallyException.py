@@ -52,8 +52,6 @@ def ReturnTest(a):
         -1
         -1
 
-
-
     :param a:
     :return:
     """
@@ -76,3 +74,5 @@ if __name__ == '__main__':
     print 'Return Testing :'
     print ReturnTest(0)
     print ReturnTest(2)
+
+
